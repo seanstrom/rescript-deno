@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "@rescript/std/": "https://unpkg.com/@rescript/std@9.1.0/"
+  }
+}
